@@ -22,7 +22,7 @@ export function App() {
             <Notification.Content text="Você recebeu um convite para fazer parte da empresa RocketSeat."/>
             <Notification.Actions  />
           </Notification.Root>
-
+          
           <Notification.Root>
             <Notification.Icon icon={Rocket}/>
             <Notification.Content text="Você recebeu um convite para fazer parte da empresa RocketSeat."/>

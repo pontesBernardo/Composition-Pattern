@@ -1,7 +1,6 @@
 🚀 Composition Pattern in React JS
 
-📚 About
-Welcome! 👋
+📚 About this project!
 
 This project is part of my journey learning React JS.
 In this repository, I explored the Composition Pattern, a fundamental concept that promotes the creation of independent and reusable components.
